@@ -5,7 +5,9 @@
 | Nombre completo                 Número de carné |
 
 | Escalante Orellana Rodrigo José  27-0255-2023 |
+##
 | Mejía Rivera Emilia Gabriela     27-0270-2025 |
+##
 | Saravia Cruz Rolando Xavier      27-0268-2025 |
 
 
