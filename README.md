@@ -2,7 +2,6 @@
 
 ## Integrantes
 
-Nombre completo                    Número de carné 
 ##
 Escalante Orellana Rodrigo José     27-0255-2023 
 ##
