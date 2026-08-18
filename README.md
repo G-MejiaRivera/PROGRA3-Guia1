@@ -2,13 +2,13 @@
 
 ## Integrantes
 
-| Nombre completo                 Número de carné |
-
-| Escalante Orellana Rodrigo José  27-0255-2023 |
+Nombre completo                    Número de carné 
 ##
-| Mejía Rivera Emilia Gabriela     27-0270-2025 |
+Escalante Orellana Rodrigo José     27-0255-2023 
 ##
-| Saravia Cruz Rolando Xavier      27-0268-2025 |
+ Mejía Rivera Emilia Gabriela       27-0270-2025 
+##
+Saravia Cruz Rolando Xavier         27-0268-2025 
 
 
 ## Ejercicio 1
